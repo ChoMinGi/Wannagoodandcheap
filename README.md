@@ -12,7 +12,8 @@ Although the largest number of transactions are made in Korea, there are no conv
 
 KOR
 
-# 싸고좋은물건은 찾아야한다(싸좋찾) 부제: 도싸가격트래킹 프로그램
+# 싸고좋은물건은 찾아야한다(싸좋찾) 
+## 부제: 도싸가격트래킹 프로그램
 물건과 가격 정보를 사용자의 개인 장치에 알림을 실시간으로 보낸다.(corearoadbike.com)
 
 ## 계기
